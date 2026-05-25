@@ -17,10 +17,3 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
-
-# Archives & local artifacts (not part of the product)
-*.zip
-*.pdf
-
-# Scratch / experimental (not shipped)
-czcz/
