@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build & cache
+dist/
+.vite/
+*.local
+
+# Environment
+.env
+.env.*
+
+# OS & editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archives & local artifacts (not part of the product)
+*.zip
+*.pdf
+
+# Scratch / experimental (not shipped)
+czcz/
